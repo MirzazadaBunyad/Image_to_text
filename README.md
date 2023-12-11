@@ -1,1 +1,1 @@
-# Image_to_text
+This simple project I'm working on uses the Tesseract.js library to convert text from an image to text. Since this library supports many languages in the world, you can convert your visual text in that language into text format by writing the abbreviation of the language you want in the App.jsx file. I also used the React.js library and CSS3 technologies in this simple project.
